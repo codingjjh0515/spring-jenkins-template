@@ -3,4 +3,4 @@
 server:
   port: 7777
   servlet:
-    contextPath: /laterre
+    contextPath: /greenjjh0515
